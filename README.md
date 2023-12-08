@@ -1,5 +1,3 @@
-# Welcome to My GitHub Profile 🚀
-
 [![Cover Photo](https://raw.githubusercontent.com/MdAbdullahIbnNoor/MdAbdullahIbnNoor/main/banner/WELCOME.jpg)](https://raw.githubusercontent.com/MdAbdullahIbnNoor/MdAbdullahIbnNoor/main/banner/WELCOME.jpg)
 
 ## Current Stats 📊
