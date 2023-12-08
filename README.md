@@ -60,13 +60,14 @@
 ## Connect with Me on Social Media 🌐
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/md-abdullah-ibn-noor-a34281218/" target="_blank">
-    <img src="https://github.com/MdAbdullahIbnNoor/MdAbdullahIbnNoor/blob/main/icons/linkedin.svg" alt="LinkedIn" title="LinkedIn" width="60" height="60" />
+  <a href="https://www.linkedin.com/in/md-abdullah-ibn-noor-a34281218/" target="_blank" style="margin-right: 20px;">
+    <img src="https://github.com/MdAbdullahIbnNoor/MdAbdullahIbnNoor/blob/main/icons/linkedin.svg" alt="LinkedIn" title="LinkedIn" width="40" height="40" />
   </a>
-  <a href="https://twitter.com/ABNoor37328758" target="_blank">
-    <img src="https://github.com/MdAbdullahIbnNoor/MdAbdullahIbnNoor/blob/main/icons/twitter.svg" alt="Twitter" title="Twitter" width="60" height="60" />
+  <a href="https://twitter.com/ABNoor37328758" target="_blank" style="margin-right: 20px;">
+    <img src="https://github.com/MdAbdullahIbnNoor/MdAbdullahIbnNoor/blob/main/icons/twitter.svg" alt="Twitter" title="Twitter" width="40" height="40" />
   </a>
   <a href="https://www.facebook.com/ab.a.noor" target="_blank">
-    <img src="https://github.com/MdAbdullahIbnNoor/MdAbdullahIbnNoor/blob/main/icons/facebook.svg" alt="Facebook" title="Facebook" width="60" height="60" />
+    <img src="https://github.com/MdAbdullahIbnNoor/MdAbdullahIbnNoor/blob/main/icons/facebook.svg" alt="Facebook" title="Facebook" width="40" height="40" />
   </a>
 </p>
+
