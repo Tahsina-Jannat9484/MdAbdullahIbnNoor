@@ -61,12 +61,12 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/md-abdullah-ibn-noor-a34281218/" target="_blank">
-    <img src="https://your-hosting-domain.com/linkedin-icon.png" alt="LinkedIn" title="LinkedIn" width="60" height="60" />
+    <img src="https://github.com/MdAbdullahIbnNoor/MdAbdullahIbnNoor/blob/main/icons/linkedin.svg" alt="LinkedIn" title="LinkedIn" width="60" height="60" />
   </a>
   <a href="https://twitter.com/ABNoor37328758" target="_blank">
-    <img src="https://your-hosting-domain.com/twitter-icon.png" alt="Twitter" title="Twitter" width="60" height="60" />
+    <img src="https://github.com/MdAbdullahIbnNoor/MdAbdullahIbnNoor/blob/main/icons/twitter.svg" alt="Twitter" title="Twitter" width="60" height="60" />
   </a>
   <a href="https://www.facebook.com/ab.a.noor" target="_blank">
-    <img src="https://your-hosting-domain.com/facebook-icon.png" alt="Facebook" title="Facebook" width="60" height="60" />
+    <img src="https://github.com/MdAbdullahIbnNoor/MdAbdullahIbnNoor/blob/main/icons/facebook.svg" alt="Facebook" title="Facebook" width="60" height="60" />
   </a>
 </p>
