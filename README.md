@@ -37,8 +37,6 @@
 
 ## About Me 👋
 
-http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username={MdAbdullahIbnNoor}&theme={2077}
-
 - MERN stack enthusiast with 6 months of coding journey.
 - Crafting with React, Tailwind CSS, and MongoDB.
 - Currently working Firebase and JWT.
