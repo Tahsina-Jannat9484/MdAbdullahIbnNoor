@@ -1,9 +1,10 @@
 [![Cover Photo](https://raw.githubusercontent.com/MdAbdullahIbnNoor/MdAbdullahIbnNoor/main/banner/WELCOME.jpg)](https://raw.githubusercontent.com/MdAbdullahIbnNoor/MdAbdullahIbnNoor/main/banner/WELCOME.jpg)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MdAbdullahIbnNoor&theme=vue-dark&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&card_width=500)](https://git.io/streak-stats)
+<p align="center">
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=MdAbdullahIbnNoor&theme=vue-dark&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&card_width=600" alt="GitHub Streak" /></a>
+</p>
 
 Here are some ideas to get you started:
-
 
 👋 MERN stack enthusiast with 6 months of coding journey. Crafting with React, Tailwind CSS, and MongoDB. Learning Firebase and diving into JWT.
 
