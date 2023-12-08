@@ -56,3 +56,17 @@
 
 - Currently obsessed with optimizing React performance and exploring serverless architectures.
 - Let's code together and build something amazing! 🚀
+
+## Connect with Me on Social Media 🌐
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/md-abdullah-ibn-noor-a34281218/" target="_blank">
+    <img src="https://your-hosting-domain.com/linkedin-icon.png" alt="LinkedIn" title="LinkedIn" width="60" height="60" />
+  </a>
+  <a href="https://twitter.com/ABNoor37328758" target="_blank">
+    <img src="https://your-hosting-domain.com/twitter-icon.png" alt="Twitter" title="Twitter" width="60" height="60" />
+  </a>
+  <a href="https://www.facebook.com/ab.a.noor" target="_blank">
+    <img src="https://your-hosting-domain.com/facebook-icon.png" alt="Facebook" title="Facebook" width="60" height="60" />
+  </a>
+</p>
