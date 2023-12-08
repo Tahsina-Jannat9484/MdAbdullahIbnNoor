@@ -60,10 +60,10 @@
 ## Connect with Me on Social Media 🌐
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/md-abdullah-ibn-noor-a34281218/" target="_blank" style="margin-right: 80px;">
+  <a href="https://www.linkedin.com/in/md-abdullah-ibn-noor-a34281218/" target="_blank" style="margin-right: 200px;">
     <img src="https://github.com/MdAbdullahIbnNoor/MdAbdullahIbnNoor/blob/main/icons/linkedin.svg" alt="LinkedIn" title="LinkedIn" width="40" height="40" />
   </a>
-  <a href="https://twitter.com/ABNoor37328758" target="_blank" style="margin-right: 80px;">
+  <a href="https://twitter.com/ABNoor37328758" target="_blank" style="margin-right: 200px;">
     <img src="https://github.com/MdAbdullahIbnNoor/MdAbdullahIbnNoor/blob/main/icons/twitter.svg" alt="Twitter" title="Twitter" width="40" height="40" />
   </a>
   <a href="https://www.facebook.com/ab.a.noor" target="_blank">
