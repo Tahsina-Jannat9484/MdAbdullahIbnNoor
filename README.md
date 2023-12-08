@@ -33,29 +33,19 @@
   <img src="https://github.com/MdAbdullahIbnNoor/MdAbdullahIbnNoor/blob/main/icons/jwt.svg" alt="JWT" title="JWT" width="60" height="60" />
 </p>
 
+
 ## About Me 👋
 
-- MERN stack enthusiast with 6 months of coding journey.
-- Crafting with React, Tailwind CSS, and MongoDB.
-- Currently working Firebase and JWT.
+- 👋 MERN stack enthusiast with 6 months of coding journey. Crafting with React, Tailwind CSS, and MongoDB. Learning Firebase and diving into JWT.
 
-## Collaboration and Learning 👯
+- 👯 Open for collaborations on impactful projects. Seeking guidance to enhance coding finesse.
 
-- Open for collaborations on impactful projects.
-- Seeking guidance to enhance coding finesse.
+- 💬 Ask me about MERN, or drop a line at [ab.89noor@gmail.com].
 
-## Connect with Me 💬
+- ⚡ Fun fact: Coffee-powered coder in pursuit of the perfect code. ☕💻
 
-- Ask me about MERN or drop a line at [ab.89noor@gmail.com].
+- 🌱 Currently obsessed with optimizing React performance and exploring serverless architectures. Let's code together and build something amazing! 🚀
 
-## Fun Fact ⚡
-
-- Coffee-powered coder in pursuit of the perfect code. ☕💻
-
-## Current Focus 🌱
-
-- Currently obsessed with optimizing React performance and exploring serverless architectures.
-- Let's code together and build something amazing! 🚀
 
 ## Connect with Me on Social Media 🌐
 
