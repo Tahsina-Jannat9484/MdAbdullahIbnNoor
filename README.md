@@ -10,28 +10,30 @@
     </a>
 </p>
 
-<br>
+## Expertise 🔧
+
 <p align="center">
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/HTML.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/css.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/JavaScript.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/python.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/c.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/cpp.png"/>
+  <img src="https://github.com/MdAbdullahIbnNoor/MdAbdullahIbnNoor/blob/main/icons/html.svg" alt="HTML" title="HTML" width="40" height="40" />
+  <img src="https://github.com/MdAbdullahIbnNoor/MdAbdullahIbnNoor/blob/main/icons/css.svg" alt="CSS" title="CSS" width="40" height="40" />
+  <img src="https://github.com/MdAbdullahIbnNoor/MdAbdullahIbnNoor/blob/main/icons/javascript.svg" alt="JavaScript" title="JavaScript" width="40" height="40" />
+  <img src="https://github.com/MdAbdullahIbnNoor/MdAbdullahIbnNoor/blob/main/icons/python.svg" alt="Python" title="Python" width="40" height="40" />
+  <img src="https://github.com/MdAbdullahIbnNoor/MdAbdullahIbnNoor/blob/main/icons/c.svg" alt="C" title="C" width="40" height="40" />
 </p>
+
 <p align="center">
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/react.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/redux.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/sass.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/tailwind.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Bootsrap.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/firebase.png"/>
+  <img src="https://github.com/MdAbdullahIbnNoor/MdAbdullahIbnNoor/blob/main/icons/react.png" alt="React" title="React" width="40" height="40" />
+  <img src="https://github.com/MdAbdullahIbnNoor/MdAbdullahIbnNoor/blob/main/icons/express-js.svg" alt="Express" title="Express" width="40" height="40" />
+  <img src="https://github.com/MdAbdullahIbnNoor/MdAbdullahIbnNoor/blob/main/icons/node-js.svg" alt="Node.js" title="Node.js" width="40" height="40" />
+  <img src="https://github.com/MdAbdullahIbnNoor/MdAbdullahIbnNoor/blob/main/icons/tailwind-css.svg" alt="Tailwind CSS" title="Tailwind CSS" width="40" height="40" />
+  <img src="https://github.com/MdAbdullahIbnNoor/MdAbdullahIbnNoor/blob/main/icons/mongodb.svg" alt="MongoDB" title="MongoDB" width="40" height="40" />
+  <img src="https://github.com/MdAbdullahIbnNoor/MdAbdullahIbnNoor/blob/main/icons/ds.svg" alt="Data Structures" title="Data Structures" width="40" height="40" />
 </p>
+
 <p align="center">
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/node.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/express.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/mongo.png"/>
-</p><br/>
+  <img src="https://github.com/MdAbdullahIbnNoor/MdAbdullahIbnNoor/blob/main/icons/github.png" alt="GitHub" title="GitHub" width="40" height="40" />
+  <img src="https://github.com/MdAbdullahIbnNoor/MdAbdullahIbnNoor/blob/main/icons/firebase.png" alt="Firebase" title="Firebase" width="40" height="40" />
+  <img src="https://github.com/MdAbdullahIbnNoor/MdAbdullahIbnNoor/blob/main/icons/jwt.svg" alt="JWT" title="JWT" width="40" height="40" />
+</p>
 
 ## About Me 👋
 
