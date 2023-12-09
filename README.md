@@ -67,7 +67,7 @@
 
 - **Description:** This Forum application is a full-stack web platform developed using the MERN (MongoDB, Express.js, React.js, Node.js) stack. It provides a space for users to engage in conversations through posted messages. The application is designed to be responsive across various devices, ensuring a seamless user experience.
 
-**Technologies Used:** 
+- **Technologies Used:** 
   - React JS
   - Express JS
   - MongoDB
