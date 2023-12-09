@@ -61,3 +61,46 @@
   </a>
 </p>
 
+## My Projects 🚀
+
+### Project 1: Forum Application
+
+- **Description:** This Forum application is a full-stack web platform developed using the MERN (MongoDB, Express.js, React.js, Node.js) stack. It provides a space for users to engage in conversations through posted messages. The application is designed to be responsive across various devices, ensuring a seamless user experience.
+
+**Technologies Used:** 
+  - React JS
+  - Express JS
+  - MongoDB
+  - Firebase Authentication
+  - HTML, CSS, JavaScript
+  - and more...
+
+- **Live Link:** [Forum Application Live Link](https://forum-page-53cdf.web.app/)
+
+### Project 2: Online Group Study Web Application
+
+- **Description:** The Online Group Study web application is a platform that facilitates collaborative learning by allowing users to create assignments, complete them, and grade their friends' assignments. Below are the features and usage guidelines for this web application.
+
+- **Technologies Used:** 
+  - React JS
+  - Express JS
+  - MongoDB
+  - Firebase Authentication
+  - HTML, CSS, JavaScript
+  - and more...
+
+- **Live Link:** [Online Group Study Web Application](https://online-group-study.web.app/) 
+
+### Project 3: Electronic Device Store
+
+- **Description:** The Electronic Device Store is a full-stack web application for buying and exploring electronic devices. It's divided into different sections for six top electronic brands, each featuring a diverse range of products.
+- **Technologies Used:** 
+  - React JS
+  - Express JS
+  - MongoDB
+  - Firebase Authentication
+  - HTML, CSS, JavaScript
+  - and more...
+
+- **Live Link:** [Electronic Device Store Client](https://brand-store-97be7.web.app/)
+
