@@ -30,7 +30,7 @@
 
 ## About Me 👋
 
-- 👋 MERN stack enthusiast with 6 months of coding journey. Crafting with React, Tailwind CSS, and MongoDB. Learning Firebase and diving into JWT.
+- 👋 MERN stack enthusiast with 6 months of coding journey. Crafting with React, Tailwind CSS, and MongoDB. Use Firebase and JWT for authentication.
 
 - 👯 Open for collaborations on impactful projects. Seeking guidance to enhance coding finesse.
 
