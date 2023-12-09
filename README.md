@@ -1,6 +1,5 @@
 [![Cover Photo](https://raw.githubusercontent.com/MdAbdullahIbnNoor/MdAbdullahIbnNoor/main/banner/WELCOME.jpg)](https://raw.githubusercontent.com/MdAbdullahIbnNoor/MdAbdullahIbnNoor/main/banner/WELCOME.jpg)
 
-## Current Stats 📊
 
 <p align="center">
     <a href="https://git.io/streak-stats">
